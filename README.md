@@ -1,6 +1,12 @@
 # MVC pattern generator with PHP :ok_hand:
 ##### this project it's useful to learn about how to manage files with php and do something like composer, but composer use the .phar php files, here i don't.
 
+#### In your project you will have created before:
+> - :open_file_folder: app
+>   - :open_file_folder: controllers
+>   - :open_file_folder: models
+>   - :open_file_folder: views
+
 ## Files:
 
 1. The *base* folder have the files and the pattern code inside those files.
@@ -26,11 +32,11 @@ Base command:
 > ##### If you choose product for the name:
 > - :open_file_folder: app
 >   - :open_file_folder: controllers
->       - :page_facing_up:: controllerProduct.php
+>       - :page_facing_up: controllerProduct.php
 >   - :open_file_folder: models
->       - :page_facing_up:: modelProduct.php
+>       - :page_facing_up: modelProduct.php
 >   - :open_file_folder: views
 >       - open_file_folder: product
->           - :page_facing_up:: product.html
->           - :page_facing_up:: product.css
->           - :page_facing_up:: product.js
+>           - :page_facing_up: product.html
+>           - :page_facing_up: product.css
+>           - :page_facing_up: product.js
