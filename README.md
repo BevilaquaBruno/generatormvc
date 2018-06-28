@@ -46,4 +46,3 @@ Base command:
 >           - :page_facing_up:: product.html
 >           - :page_facing_up:: product.css
 >           - :page_facing_up:: product.js
->>>>>>> fd2fd2699e4548b12f8630d7fde7cca0a3d87a0f
