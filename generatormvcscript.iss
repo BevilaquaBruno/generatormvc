@@ -13,7 +13,6 @@ AppPublisher=CPL Software
 DefaultDirName={pf}\generatormvc
 DisableProgramGroupPage=yes
 OutputDir=E:\Test\generatormvc_exe
-SetupIconFile= E:\Test\generatormvc_exe\icon.ico
 OutputBaseFilename=generatormvc
 Compression=lzma
 ChangesEnvironment=yes
