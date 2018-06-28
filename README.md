@@ -36,12 +36,10 @@ Base command:
 >   - :open_file_folder: models
 >       - :page_facing_up: modelProduct.php
 >   - :open_file_folder: views
-<<<<<<< HEAD
 >       - open_file_folder: product
 >           - :page_facing_up: product.html
 >           - :page_facing_up: product.css
 >           - :page_facing_up: product.js
-=======
 >       - :open_file_folder: product
 >           - :page_facing_up:: product.html
 >           - :page_facing_up:: product.css
