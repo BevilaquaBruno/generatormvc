@@ -14,13 +14,7 @@
 	    exit();
     }
 
-	if($func === null){
-		echo('Error, Invalid parameter');
-		exit();
-	}else if($type === null){
-		echo('Error, Invalid parameter');
-		exit();
-	}else if ($name === null){
+	if($func === null || $type === null || $name === null){
 		echo('Error, Invalid parameter');
 		exit();
 	}
