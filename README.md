@@ -23,7 +23,7 @@ Base command:
 
 > `generatormvc`: base command.
 
-> `<func>`: what you want to do,so far it has only 2 commands:
+> `<func>`: what you want to do, so far it has only 2 commands:
 `create` to create files and `delete` to delete files
 
 >`<type>`: the type you want: `mvc` to create all, `controller` to create only a controller, `model` to create only a model or `view` to create a folder and a .html, .css and .js files
