@@ -37,6 +37,6 @@ Base command:
 >       - :page_facing_up: modelProduct.php
 >   - :open_file_folder: views
 >       - :open_file_folder: product
->           - :page_facing_up:: product.html
->           - :page_facing_up:: product.css
->           - :page_facing_up:: product.js
+>           - :page_facing_up: product.html
+>           - :page_facing_up: product.css
+>           - :page_facing_up: product.js
