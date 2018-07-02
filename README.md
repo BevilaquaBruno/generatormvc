@@ -36,6 +36,8 @@ Base command:
 >   - :open_file_folder: models
 >       - :page_facing_up: modelProduct.php
 >   - :open_file_folder: views
+
+> You can use this or fork and edit for your project pattern
 >       - :open_file_folder: product
 >           - :page_facing_up: product.html
 >           - :page_facing_up: product.css
