@@ -1,5 +1,5 @@
 # MVC pattern generator with PHP :ok_hand:
-##### this project it's useful to learn about how to manage files with php and do something like composer, but composer use the .phar php files, here i don't.
+##### this project it's useful to learn about how to manage files with php and do something like composer, but composer use the .phar php files, here i don't, You can use this or fork and edit for your project pattern.
 
 #### In your project you will have created before:
 > - :open_file_folder: app
@@ -40,4 +40,3 @@ Base command:
 >           - :page_facing_up: product.html
 >           - :page_facing_up: product.css
 >           - :page_facing_up: product.js
-> You can use this or fork and edit for your project pattern
