@@ -1,4 +1,5 @@
 <?php
+    // $agrv is all the paramenters
     $temp_dir = $_SERVER['PHP_SELF'];
     $arr_dir = explode('\\',$temp_dir);
     $my_dir = $arr_dir[0];
